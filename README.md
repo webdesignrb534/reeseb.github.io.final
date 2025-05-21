@@ -27,7 +27,7 @@
 </footer>
 </body>
 </html>
-'''
+
 
 # Pages content
 content = {
@@ -35,9 +35,7 @@ content = {
 <h2>Welcome to the Girls Tennis Team Website!</h2>
 <p>Here you’ll find everything you need to know about our team, including our match schedule, team members, photos, and how to get involved.</p>
 <img src="tennis-team.jpg" alt="Girls Tennis Team Group Photo" />
-''',
 
-"team.html": '''
 <h2>Meet Our Team</h2>
 <ul>
 <li>Sophia — Team Captain</li>
@@ -61,9 +59,7 @@ content = {
 </ul>
 </li>
 </ul>
-''',
 
-"schedule.html": '''
 <h2>Match & Practice Schedule</h2>
 <table>
 <thead>
@@ -74,9 +70,7 @@ content = {
 <tr><td>May 28</td><td>Jefferson HS</td><td>Away</td><td>5:00 PM</td></tr>
 </tbody>
 </table>
-''',
 
-"gallery.html": '''
 <h2>Team Gallery</h2>
 <figure>
 <img src="match-action.jpg" alt="Action Shot from Last Match" />
@@ -86,18 +80,14 @@ content = {
 <img src="practice.jpg" alt="Practice session" />
 <figcaption>Team warming up before a match.</figcaption>
 </figure>
-''',
 
-"coaches.html": '''
 <h2>Meet the Coaches</h2>
 <p>Our team is led by Coach Taylor and Assistant Coach Morgan. Both have extensive tennis experience and are passionate about mentoring young athletes.</p>
 <ul>
 <li>Coach Taylor – Head Coach (10+ years experience)</li>
 <li>Coach Morgan – Assistant Coach (former college player)</li>
 </ul>
-''',
 
-"contact.html": '''
 <h2>Contact Us</h2>
 <form action="#" method="POST">
 <label for="name">Name:</label>
@@ -113,7 +103,7 @@ content = {
 <source src="team-highlight.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
-'''
+
 }
 
 # Create full HTML files
