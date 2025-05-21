@@ -74,7 +74,9 @@
 
 <h2>Team Gallery</h2>
 <figure>
-<img src="match-action.jpg" alt="Action Shot from Last Match" />
+<img src="![DSC_5692 (1)](https://github.com/user-attachments/assets/85bb2219-ec2d-4ba5-8d70-6dde2566b41b)
+
+" alt="Action Shot from Last Match" />
 <figcaption>Reese serving during the final match.</figcaption>
 </figure>
 <figure>
@@ -105,67 +107,4 @@
 Your browser does not support the video tag.
 </video>
 
-}
 
-# Create full HTML files
-for filename, body in content.items():
-with open(os.path.join(base_path, filename), 'w') as f:
-f.write(header + body + footer)
-
-# Write basic CSS for layout and accessibility
-css_content = '''
-body {
-font-family: Arial, sans-serif;
-margin: 0;
-padding: 0;
-background: #f8f8f8;
-}
-header, footer {
-background-color: #003366;
-color: white;
-text-align: center;
-padding: 1rem 0;
-}
-nav ul {
-list-style: none;
-padding: 0;
-}
-nav ul li {
-display: inline-block;
-margin: 0 10px;
-}
-nav ul li a {
-color: white;
-text-decoration: none;
-}
-main {
-padding: 2rem;
-}
-table {
-width: 100%;
-border-collapse: collapse;
-}
-table, th, td {
-border: 1px solid #ccc;
-}
-th, td {
-padding: 10px;
-text-align: center;
-}
-.nested-list ul {
-list-style-type: circle;
-margin-left: 20px;
-}
-form {
-margin-top: 20px;
-}
-img, video {
-max-width: 100%;
-height: auto;
-}
-'''
-
-with open(css_path, 'w') as f:
-f.write(css_content)
-
-base_path
