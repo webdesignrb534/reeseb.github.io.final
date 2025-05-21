@@ -30,8 +30,7 @@
 
 
 # Pages content
-content = {
-"index.html": '''
+
 <h2>Welcome to the Girls Tennis Team Website!</h2>
 <p>Here you’ll find everything you need to know about our team, including our match schedule, team members, photos, and how to get involved.</p>
 <img src="tennis-team.jpg" alt="Girls Tennis Team Group Photo" />
