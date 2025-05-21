@@ -37,24 +37,24 @@
 
 <h2>Meet Our Team</h2>
 <ul>
-<li>Sophia — Team Captain</li>
-<li>Emma</li>
-<li>Olivia</li>
-<li>Ava</li>
+<li>Reese — Team Captain</li>
+<li>Layla</li>
+<li>Lizzy</li>
+<li>Allie</li>
 <li>Mia</li>
 </ul>
 <ul class="nested-list">
 <li>Varsity Players
 <ul>
-<li>Sophia</li>
-<li>Emma</li>
+<li>Reese</li>
+<li>Mia</li>
 </ul>
 </li>
 <li>JV Players
 <ul>
-<li>Olivia</li>
-<li>Ava</li>
-<li>Mia</li>
+<li>Layla</li>
+<li>Lizzy</li>
+<li>Allie</li>
 </ul>
 </li>
 </ul>
@@ -66,14 +66,16 @@
 </thead>
 <tbody>
 <tr><td>May 25</td><td>Lincoln High</td><td>Home</td><td>4:00 PM</td></tr>
-<tr><td>May 28</td><td>Jefferson HS</td><td>Away</td><td>5:00 PM</td></tr>
+<tr><td>May 29</td><td>Jefferson HS</td><td>Away</td><td>5:00 PM</td></tr>
+<tr><td>June 2</td><td>Lincoln HS</td><td>Home</td><td>4:00 PM</td></tr>
+<tr><td>June 8</td><td>Rodgers HS</td><td>Away</td><td>6:00 PM</td></tr>
 </tbody>
 </table>
 
 <h2>Team Gallery</h2>
 <figure>
 <img src="match-action.jpg" alt="Action Shot from Last Match" />
-<figcaption>Sophia serving during the final match.</figcaption>
+<figcaption>Reese serving during the final match.</figcaption>
 </figure>
 <figure>
 <img src="practice.jpg" alt="Practice session" />
@@ -81,10 +83,10 @@
 </figure>
 
 <h2>Meet the Coaches</h2>
-<p>Our team is led by Coach Taylor and Assistant Coach Morgan. Both have extensive tennis experience and are passionate about mentoring young athletes.</p>
+<p>Our team is led by Coach Steve and Assistant Coach Chuck. Both have extensive tennis experience and are passionate about supporting our young athletes and program.</p>
 <ul>
-<li>Coach Taylor – Head Coach (10+ years experience)</li>
-<li>Coach Morgan – Assistant Coach (former college player)</li>
+<li>Coach Steve – Head Coach (2+ years experience)</li>
+<li>Coach Chuck – Assistant Coach (former college player)</li>
 </ul>
 
 <h2>Contact Us</h2>
