@@ -91,6 +91,8 @@
 <li>Coach Steve – Head Coach (2+ years experience)</li>
 <li>Coach Chuck – Assistant Coach (former college player)</li>
 </ul>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS35y5GIBVbUfQRI0k3EWF6K5sjbkfEgpJzQA&s" />
+<figcaption>Coach Chuck giving Allie tips during her match.</figcaption>
 
 <h2>Contact Us</h2>
 <form action="#" method="POST">
