@@ -10,13 +10,12 @@
 <h1>Our High School Girls Tennis Team</h1>
 <nav>
 <ul>
-<li><a href="index.html">Home</a></li>
-<li><a href="team.html">Team</a></li>
-<li><a href="schedule.html">Schedule</a></li>
-<li><a href="gallery.html">Gallery</a></li>
-<li><a href="coaches.html">Coaches</a></li>
-<li><a href="contact.html">Contact</a></li>
-</ul>
+<li><a href="index.html">Home</li>
+<li><a href="team.html">Team</li>
+<li><a href="schedule.html">Schedule</li>
+<li><a href="gallery.html">Gallery</li>
+<li><a href="coaches.html">Coaches</li>
+<li><a href="contact.html">Contact</li>
 </nav>
 </header>
 <main>
